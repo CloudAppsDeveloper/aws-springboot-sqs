@@ -26,3 +26,7 @@ target/classes/application.properties
 target/classes/META-INF/maven/com.cloudapps.developer/aws-springboot-sqs/pom.properties
 target/classes/META-INF/maven/com.cloudapps.developer/aws-springboot-sqs/pom.xml
 .DS_Store
+.classpath
+.factorypath
+.project
+*.prefs
